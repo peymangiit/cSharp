@@ -1,0 +1,12 @@
+C:\Users\peyman\Desktop\project-test\csharp\NumbersAddition\NumbersAddition\bin\Debug\NumbersAddition.exe.config
+C:\Users\peyman\Desktop\project-test\csharp\NumbersAddition\NumbersAddition\bin\Debug\NumbersAddition.exe
+C:\Users\peyman\Desktop\project-test\csharp\NumbersAddition\NumbersAddition\bin\Debug\NumbersAddition.pdb
+C:\Users\peyman\Desktop\project-test\csharp\NumbersAddition\NumbersAddition\obj\Debug\NumbersAddition.csprojResolveAssemblyReference.cache
+C:\Users\peyman\Desktop\project-test\csharp\NumbersAddition\NumbersAddition\obj\Debug\NumbersAddition.exe
+C:\Users\peyman\Desktop\project-test\csharp\NumbersAddition\NumbersAddition\obj\Debug\NumbersAddition.pdb
+D:\windows files\project-test\csharp\NumbersAddition\NumbersAddition\bin\Debug\NumbersAddition.exe.config
+D:\windows files\project-test\csharp\NumbersAddition\NumbersAddition\obj\Debug\NumbersAddition.exe
+D:\windows files\project-test\csharp\NumbersAddition\NumbersAddition\obj\Debug\NumbersAddition.pdb
+D:\windows files\project-test\csharp\NumbersAddition\NumbersAddition\bin\Debug\NumbersAddition.exe
+D:\windows files\project-test\csharp\NumbersAddition\NumbersAddition\bin\Debug\NumbersAddition.pdb
+D:\windows files\project-test\csharp\NumbersAddition\NumbersAddition\obj\Debug\NumbersAddition.csprojResolveAssemblyReference.cache
